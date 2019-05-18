@@ -1,0 +1,23 @@
+{
+  "name": "express-workshop-master",
+  "version": "1.0.0",
+  "description": "Using express and node to build a blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Beginner",
+    "node",
+    "Javascript",
+    "Express",
+    "Node",
+    "NodeGirls"
+  ],
+  "author": "AlexandraOM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "express-formidable": "^1.2.0"
+  }
+}
